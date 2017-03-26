@@ -1,0 +1,19 @@
+software de inventario para el hogar:
+
+	se deben permitir el registro de:
+		articulos de aseo
+		ingredientes para:
+			pasteles
+			empanadas
+			general
+		elementos para reposteria
+		alimentos
+		
+	ademas el software debe permitir:
+
+		1.- Ver stock completo
+		2.- COnsultar stock de algun producto por su nombre, tipo o cantidad
+		3.- Ordenar listados por cantidad, nombre o tipos
+		4.- Eliminar producto si es necesario (tambien permitir las deshabilitaciones)
+		5.- Actualizar stock al buscar y al listar.
+	
